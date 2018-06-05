@@ -1,6 +1,6 @@
 {
     "name": "blaisedufrain/wordpress-eloquent",
-    "description": "A Laravel wrapper for wordpress which turns all Wordpress models into Laravel Eloquent Models.",
+    "description": "A Laravel wrapper for wordpress which turns all Wordpress models into Laravel Eloquent Models. Appended by Blaise DuFrain",
     "keywords": ["wordpress", "eloquent", "laravel"],
     "homepage": "https://github.com/blaisedufrain/wordpress-eloquent",
     "support": {
